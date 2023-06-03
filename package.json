@@ -1,0 +1,31 @@
+{
+  "name": "systack",
+  "version": "1.0.0",
+  "description": "project structure for nodejs applications in MVC architecture",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Folawewo/systack.git"
+  },
+  "keywords": [
+    "project",
+    "structure",
+    "folder",
+    "file",
+    "nodejs",
+    "path",
+    "mvc",
+    "stack",
+    "package",
+    "library"
+  ],
+  "author": "Folawewo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Folawewo/systack/issues"
+  },
+  "homepage": "https://github.com/Folawewo/systack#readme"
+}

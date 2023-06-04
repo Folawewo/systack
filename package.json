@@ -2,9 +2,12 @@
   "name": "systack",
   "version": "1.0.0",
   "description": "project structure for nodejs applications in MVC architecture",
-  "main": "dist/index.js",
+  "main": "bin/systack.js",
+  "bin": {
+    "systack": "bin/systack.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",

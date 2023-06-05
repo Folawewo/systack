@@ -1,6 +1,6 @@
 {
   "name": "systack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "project structure for nodejs applications in MVC architecture",
   "main": "bin/systack.js",
   "bin": {

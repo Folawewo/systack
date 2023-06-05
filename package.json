@@ -1,7 +1,7 @@
 {
   "name": "systack",
-  "version": "1.0.1",
-  "description": "project structure for nodejs applications in MVC architecture",
+  "version": "1.0.2",
+  "description": "command-line tool to generate a Node.js backend project structure following the MVC architecture pattern",
   "main": "bin/systack.js",
   "bin": {
     "systack": "bin/systack.js"

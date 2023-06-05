@@ -23,7 +23,9 @@
     "mvc",
     "stack",
     "package",
-    "library"
+    "library",
+    "cli",
+    "command"
   ],
   "author": "Folawewo",
   "license": "ISC",

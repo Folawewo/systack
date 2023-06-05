@@ -42,8 +42,6 @@ The generated project structure follows a standard MVC architecture, with additi
 - `README.md`: This file, providing an overview of the project and instructions for developers.
 - `package.json`: Project metadata and dependencies.
 
-![shell](https://iili.io/H4BC6JV.md.png)
-
 For a more detailed explanation of each folder and file, refer to the generated Project Documentation file in your newly created backend application.
 
 ## Documentation

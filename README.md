@@ -14,7 +14,7 @@ systack is a command-line tool to generate a Node.js backend project structure f
 Install systack globally using npm:
 
 ```shell
-npm install -g systack
+sudo npm install -g systack
 ```
 ## Usage
 Create your project by running the following command:
@@ -41,6 +41,8 @@ The generated project structure follows a standard MVC architecture, with additi
 - `index.js`: Entry point of your application.
 - `README.md`: This file, providing an overview of the project and instructions for developers.
 - `package.json`: Project metadata and dependencies.
+
+![shell](https://iili.io/H4BC6JV.md.png)
 
 For a more detailed explanation of each folder and file, refer to the generated Project Documentation file in your newly created backend application.
 

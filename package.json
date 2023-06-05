@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/Folawewo/systack/issues"
   },
-  "homepage": "https://github.com/Folawewo/systack#readme"
+  "homepage": "https://github.com/Folawewo/systack#readme",
+  "dependencies": {
+    "systack": "^1.0.0"
+  }
 }

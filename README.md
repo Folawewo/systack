@@ -23,7 +23,7 @@ Create your project by running the following command:
 systack <project-name>
 ```
 
-This will generate the project structure in a new directory with the provided project name.
+This will generate the project structure with the provided project name.
 
 ## Folder Structure
 
